@@ -1,0 +1,50 @@
+body{
+    margin:0;
+    background: linear-gradient(to top,
+    black, cyan);
+    font-family: Arial;
+    line-height:1.5;
+    font-size:18px;
+}
+
+.list {
+    color: #ffc4f0ee;}
+
+h1 {
+    color: #75cccc;
+    text-align:center;
+    }
+
+.tg{
+    color:#a5fefe
+    }
+.email{
+    color:#a5fefe
+}
+
+.title {
+    font-size: 20px;
+    color: #c1dde5;
+    padding-left:0;
+    list-style-position:inside;
+
+}
+
+.card{
+    width: 700px;
+    margin: 30px auto;
+    background-color: #008485;
+    box-shadow:7px 7px 20px 0px #000000;
+    border-radius:10px;
+    padding: 20px;
+    }
+
+.photo{
+        display:block;
+        height:400px;
+        margin:0 auto;
+        border-radius:10px;
+        }
+
+
+
